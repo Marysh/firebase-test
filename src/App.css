@@ -1,0 +1,56 @@
+a {
+  text-decoration: none;
+}
+
+
+h1 {
+font-weight: 500;
+font-size: 46px;
+}
+
+.container {
+  width: 588px;
+  padding: 110px 70px 30px;
+  margin: 100px auto;
+  background: #C4C4C4;
+  border-radius: 57px;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.btn {
+  background: #828282;
+  border-radius: 63px;
+  width: 277px;
+  height: 73px;
+  padding: 10px;
+  font-size: 40px;
+  text-align: center;
+  outline: none;
+  border: none;
+}
+
+.infoLabel {
+  font-size: 20px;
+  line-height: 1;
+  color: #88888C;
+}
+
+.infoLabel span {
+  color: #000000;
+}
+
+input {
+  background: transparent;
+  border: none;
+  color: #000000;
+  font-size: 40px;
+  line-height: 1.17;
+  margin-bottom: 30px;
+}
